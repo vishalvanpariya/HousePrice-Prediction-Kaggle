@@ -1,5 +1,5 @@
 # HousePrice-Prediction-Kaggle
-House price prediction Kaggle competition
+House price prediction Kaggle competition-Top 5% on LeaderBoard
 
 ## Source:
 [Kaggel Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
@@ -11,3 +11,4 @@ House price prediction Kaggle competition
 * Numpy
 * Matplotlib
 * Seaborn
+* XgBoost
